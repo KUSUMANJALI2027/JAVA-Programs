@@ -1,7 +1,7 @@
 public class ArithmeticOperations {
     public static void main(String[] args) {
         // Declare two integers
-        int a = 10;
+        int a = 22;
         int b = 5;
 
         // Perform and display various arithmetic operations
