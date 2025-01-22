@@ -12,8 +12,7 @@ public class Loops {
         while (j <= 5) {
             System.out.println(j);
             j++;
-        }
-
+        }
         System.out.println("Do-While Loop:");
         // Do-while loop to print numbers from 1 to 5
         int k = 1;
