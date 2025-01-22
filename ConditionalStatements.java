@@ -19,8 +19,7 @@ public class ConditionalStatements {
             System.out.println("The number is even.");
         } else {
             System.out.println("The number is odd.");
-        }
-
+        }
         scanner.close();
     }
 }
