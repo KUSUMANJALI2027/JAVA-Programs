@@ -17,8 +17,8 @@ class Student {
 public class ClassesAndObjects {
     public static void main(String[] args) {
         // Create student objects
-        Student student1 = new Student("Aswin", 20);
-        Student student2 = new Student("Raju", 22);
+        Student student1 = new Student("kushi", 19);
+        Student student2 = new Student("Anjali", 20);
 
         // Display student information
         student1.display();
