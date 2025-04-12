@@ -4,7 +4,7 @@ public class Experiment4_7 {
     public static void main(String[] args) {
         // Writing to a file using BufferedWriter
         try (BufferedWriter writer = new BufferedWriter(new FileWriter("bufferedExample.txt"))) {
-            writer.write("Hello, this is a test file.\n");
+            writer.write("Hello, this is kusuma's test file.\n");
             writer.write("Writing data to a file using BufferedWriter.");
         } catch (IOException e) {
             System.out.println("Error writing to file: " + e.getMessage());
