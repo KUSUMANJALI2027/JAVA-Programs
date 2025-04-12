@@ -5,10 +5,10 @@ class John{
         
         Map<Integer, String> m = new HashMap<Integer, String>();
         
-        m.put(17, "Jagadesh");
-        m.put(5, "Madhu");
-        m.put(20, "Kanthara");
-        m.put(7, "Devi");
+        m.put(15, "Sundari");
+        m.put(35, "Anjali");
+        m.put(20, "John");
+        m.put(28, "Rishi");
 
 
         //System.out.println(m.keySet());
